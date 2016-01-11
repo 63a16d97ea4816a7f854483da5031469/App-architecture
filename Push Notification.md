@@ -1,5 +1,7 @@
 # Push notification -architecture
 
+https://parse.com/apps/quickstart
+
 https://www.youtube.com/watch?v=gYr-tMCD454
 
 https://parse.com/docs/ios/guide#push-notifications
